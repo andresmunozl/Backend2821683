@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 PENALTI A FAVOR DEL REAL MADRID
 
@@ -10,15 +11,23 @@ CR7- Vinicius
 
 
 
+=======
+Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
+>>>>>>> 11349438fc4789182124bf0024d18c388e995013
 Ya no mires atrás, ya no vas por ese camino. -Yudith
 >>>>>>> c9d0d8032fd713b3e74cdaa73d53bd9b2e5125a6
 Dios no elige a los preparados, prepara los elegidos-estailen
 la primera línea
->>>>>>> 96bc01d64e7ddfacb0ebde8f61494b6194690dda
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
 nada hay nada permanente solo el cmabio
+<<<<<<< HEAD
 CR7- Vinicius
 
+=======
+Dios no elige a los preparados, prepara los elegidos-estailen
+Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
+nada hay nada permanente solo el cmabio
+>>>>>>> 11349438fc4789182124bf0024d18c388e995013
 CR7- Vinicius , Yamil se los pasio en el casa blanca
 Messi balón de oro
 nueva frase AM
@@ -27,4 +36,7 @@ Yo solo se que nada se - Marlon
 El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
 la primera línea
+Yo solo se que nada se
+la primera línea
+
 
