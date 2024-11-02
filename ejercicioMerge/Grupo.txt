@@ -1,14 +1,32 @@
+
+Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables? DanielOrtiz
+Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
+Ya no mires atrás, ya no vas por ese camino. -Yudith
 Dios no elige a los preparados, prepara los elegidos-estailen
 la primera línea
+<<<<<<< HEAD
+
+
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
-nada hay nada permanente solo el cmabio
+nada hay nada permanente solo el cambio (Wiliam David)
 CR7- Vinicius
+
+Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
+=======
+>>>>>>> d57696a62bb60f99ea0b9f9d40dec331d0048b43
+nada hay nada permanente solo el cmabio
+Dios no elige a los preparados, prepara los elegidos-estailen
+Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
+nada hay nada permanente solo el cambio (Wiliam David)
+
 CR7- Vinicius , Yamil se los pasio en el casa blanca
-Messi balón de oro
+Messi balón de oro (Diego Ruiz)
 nueva frase AM
 Yo solo se que nada se
 "Nunca dejes para mañana lo que puedas hacer pasado mañana." - Angie
 El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
-la primera línea
+Yo solo se que nada se
+
+"No soy perezoso, estoy en modo de ahorro de energía." -Alvaro Delgado
 
