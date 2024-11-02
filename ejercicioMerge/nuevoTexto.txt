@@ -9,12 +9,15 @@ Jefferson Andrés Muñoz Luligo
 Yonnier Leon
 Diego Alonso Ruiz Anacona
 Diego Alonso Ruiz Anacona
+<<<<<<< HEAD
 Marlon Collazos
 <<<<<<< HEAD
 Daniel Aranda 
 >>>>>>> f027b1b06a6bc4d99f9efa61bc14e099fcd2081f
 >>>>>>> 7afbc79ecf535dc5d7d2a7cb43f55a1f07a29252
 =======
+=======
+>>>>>>> 7488aa1017240207f16d0a9fc1c410599a8ec8b9
 Daniel Aranda
 Arnulfo Wescol Solis
 >>>>>>> 93f07b0e85ca3ca2c50b852be74d4084dbdd8ac3
