@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
 El Rey Leon
 
 (DANIEL ARANDA) -tengo una filosofía: "si algo no funciona, golpéalo con un martillo"
+=======
+Yo solo se que nada se
+>>>>>>> bf00e2d3dd6c58394f5f16d71c7a648a580d5796
 la primera línea
+>>>>>>> aa2941dee8a859e0b01fab0f564a5254d15bedad
+
+
