@@ -14,6 +14,7 @@ Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFact
 Ya no mires atrás, ya no vas por ese camino. -Yudith
 >>>>>>> c9d0d8032fd713b3e74cdaa73d53bd9b2e5125a6
 Dios no elige a los preparados, prepara los elegidos-estailen
+la primera línea
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
 nada hay nada permanente solo el cmabio
 Dios no elige a los preparados, prepara los elegidos-estailen
@@ -29,6 +30,5 @@ El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
 la primera línea
 Yo solo se que nada se
-la primera línea
 
 
