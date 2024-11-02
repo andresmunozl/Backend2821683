@@ -1,6 +1,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+
+PENALTI A FAVOR DEL REAL MADRID
+
+DEJEN DE HACER ERRORES OMEEEE
+
+Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
+
+nada hay nada permanente solo el cmabio
+CR7- Vinicius
+
+
+
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 nada hay nada permanente solo el cambio(david)
@@ -9,13 +23,20 @@ CR7- Vinicius , Yamil se los pasio en el casa blanca
 Messi balón de oro (diego ruiz)
 =======
 =======
+>>>>>>> 1910aae78768775058c5f6ce4668f35584e56dc4
 =======
 =======
 
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables? DanielOrtiz
+<<<<<<< HEAD
+>>>>>>> d57696a62bb60f99ea0b9f9d40dec331d0048b43
+Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
+>>>>>>> 11349438fc4789182124bf0024d18c388e995013
+=======
 >>>>>>> 676af96ccbd7103219e67eaf6cd572255dc19578
 Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
 >>>>>>> aaade9c51e583a2abb3fba10a13bf0b6b94052be
+>>>>>>> 1910aae78768775058c5f6ce4668f35584e56dc4
 Ya no mires atrás, ya no vas por ese camino. -Yudith
 >>>>>>> c9d0d8032fd713b3e74cdaa73d53bd9b2e5125a6
 Dios no elige a los preparados, prepara los elegidos-estailen
@@ -31,10 +52,19 @@ Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
 =======
 >>>>>>> d57696a62bb60f99ea0b9f9d40dec331d0048b43
 nada hay nada permanente solo el cmabio
+<<<<<<< HEAD
+CR7- Vinicius
+
+=======
 Dios no elige a los preparados, prepara los elegidos-estailen
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
+<<<<<<< HEAD
+nada hay nada permanente solo el cmabio
+>>>>>>> 11349438fc4789182124bf0024d18c388e995013
+=======
 nada hay nada permanente solo el cambio (Wiliam David)
 
+>>>>>>> 1910aae78768775058c5f6ce4668f35584e56dc4
 CR7- Vinicius , Yamil se los pasio en el casa blanca
 Messi balón de oro
 >>>>>>> 96bc01d64e7ddfacb0ebde8f61494b6194690dda
@@ -42,7 +72,7 @@ Messi balón de oro
 Messi balón de oro (Diego Ruiz)
 >>>>>>> 676af96ccbd7103219e67eaf6cd572255dc19578
 nueva frase AM
-Yo solo se que nada se
+Yo solo se que nada se - Marlon
 "Nunca dejes para mañana lo que puedas hacer pasado mañana." - Angie
 El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
