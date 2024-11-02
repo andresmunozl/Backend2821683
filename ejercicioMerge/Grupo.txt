@@ -1,28 +1,14 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
-
 la primera línea
-=======
-<<<<<<< HEAD
-=======
-
+CR7- Vinicius
 Messi balón de oro
 nueva frase AM
 Yo solo se que nada se
 "Nunca dejes para mañana lo que puedas hacer pasado mañana." - Angie
->>>>>>> dc7333bdef55e4a3d6759f8358510c906d40e525
 El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
 la primera línea
-<<<<<<< HEAD
->>>>>>> aa2941dee8a859e0b01fab0f564a5254d15bedad
->>>>>>> 57ab8733e7e9934c12b0af3909f34cd96a848b30
-=======
 Yo solo se que nada se
 la primera línea
->>>>>>> bf00e2d3dd6c58394f5f16d71c7a648a580d5796
-=======
 
->>>>>>> dc7333bdef55e4a3d6759f8358510c906d40e525
