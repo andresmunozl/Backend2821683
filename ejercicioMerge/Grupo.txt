@@ -1,18 +1,15 @@
-<<<<<<< HEAD
+
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables? DanielOrtiz
-=======
-<<<<<<< HEAD
 
-
-=======
+Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
+Ya no mires atrás, ya no vas por ese camino. -Yudith
+Dios no elige a los preparados, prepara los elegidos-estailen
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
->>>>>>> 99742288887d2cfe02d3130998c10bf51e68c9c5
-
-<<<<<<< HEAD
 nada hay nada permanente solo el cmabio
-CR7- Vinicius
-=======
->>>>>>> c1124af7dbdceb889c341415d508a66e45dc8baf
+Dios no elige a los preparados, prepara los elegidos-estailen
+Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
+>>>>>>> aaade9c51e583a2abb3fba10a13bf0b6b94052be
+nada hay nada permanente solo el cmabio
 CR7- Vinicius , Yamil se los pasio en el casa blanca
 Messi balón de oro
 nueva frase AM
@@ -21,4 +18,7 @@ Yo solo se que nada se
 El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
 la primera línea
+Yo solo se que nada se
+la primera línea
+
 
