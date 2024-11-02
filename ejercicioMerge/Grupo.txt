@@ -1,11 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ya no mires atrás, ya no vas por  ese camino. - Yudith
 la primera línea
 =======
 <<<<<<< HEAD
-El Rey Leon
 =======
+CR7- Vinicius
+Messi balón de oro
+nueva frase AM
+Yo solo se que nada se
+"Nunca dejes para mañana lo que puedas hacer pasado mañana." - Angie
+>>>>>>> a75579668d693c7c33ca54b63aeefd348fffefb1
+El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
 la primera línea
+<<<<<<< HEAD
 >>>>>>> aa2941dee8a859e0b01fab0f564a5254d15bedad
 >>>>>>> 57ab8733e7e9934c12b0af3909f34cd96a848b30
+=======
+
+>>>>>>> a75579668d693c7c33ca54b63aeefd348fffefb1
