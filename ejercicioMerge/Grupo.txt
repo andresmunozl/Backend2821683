@@ -17,4 +17,5 @@ la primera línea
 Yo solo se que nada se
 la primera línea
 
+"No soy perezoso, estoy en modo de ahorro de energía." -Alvaro Delgado
 
