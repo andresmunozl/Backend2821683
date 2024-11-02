@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+la primera linea
 El Rey Leon
 =======
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
 la primera línea
 >>>>>>> aa2941dee8a859e0b01fab0f564a5254d15bedad
+=======
+Yo solo se que nada se
+la primera línea
+>>>>>>> bf00e2d3dd6c58394f5f16d71c7a648a580d5796
