@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 Jefferson Andrés Muñoz Luligo
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Jefferson Andrés Muñoz Luligo
+Yonnier Leon
+=======
+Diego Alonso Ruiz Anacona
+Jefferson Andrés Muñoz Luligo
+>>>>>>> 1910aae78768775058c5f6ce4668f35584e56dc4
+=======
+Jefferson Andrés Muñoz Luligo
+prueba para siguiente ejercicio
+Diego Alonso Ruiz Anacona
+Marlon Collazos
+Daniel Aranda 
+>>>>>>> f027b1b06a6bc4d99f9efa61bc14e099fcd2081f
+>>>>>>> 7afbc79ecf535dc5d7d2a7cb43f55a1f07a29252
