@@ -1,13 +1,30 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Merezco un descanso
 Ya no mires atrás, ya no vas por ese camino. -Yudith
 Dios no elige a los preparados, prepara los elegidos-estailen
 la primera línea
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+nada hay nada permanente solo el cambio(david)
+CR7- Vinicius
+CR7- Vinicius , Yamil se los pasio en el casa blanca
+Messi balón de oro (diego ruiz)
+=======
+=======
+=======
+>>>>>>> 787fde605f95fceb55306e27578dffdc93a8b52e
+=======
 
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables? DanielOrtiz
+>>>>>>> 676af96ccbd7103219e67eaf6cd572255dc19578
 Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
+>>>>>>> aaade9c51e583a2abb3fba10a13bf0b6b94052be
 Ya no mires atrás, ya no vas por ese camino. -Yudith
+>>>>>>> c9d0d8032fd713b3e74cdaa73d53bd9b2e5125a6
 Dios no elige a los preparados, prepara los elegidos-estailen
 la primera línea
 <<<<<<< HEAD
@@ -27,7 +44,12 @@ Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
 nada hay nada permanente solo el cambio (Wiliam David)
 
 CR7- Vinicius , Yamil se los pasio en el casa blanca
+<<<<<<< HEAD
+Messi balón de oro
+>>>>>>> 96bc01d64e7ddfacb0ebde8f61494b6194690dda
+=======
 Messi balón de oro (Diego Ruiz)
+>>>>>>> 676af96ccbd7103219e67eaf6cd572255dc19578
 nueva frase AM
 Yo solo se que nada se
 "Nunca dejes para mañana lo que puedas hacer pasado mañana." - Angie
