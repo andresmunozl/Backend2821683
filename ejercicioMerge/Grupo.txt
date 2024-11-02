@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 Juan Vargas
 Ya no mires atrás, ya no vas por  ese camino. - Yudith
 la primera línea
+=======
+Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
+
+<<<<<<< HEAD
+nada hay nada permanente solo el cmabio
+>>>>>>> c1124af7dbdceb889c341415d508a66e45dc8baf
 CR7- Vinicius
+=======
+CR7- Vinicius , Yamil se los pasio en el casa blanca
+>>>>>>> ad7a60b29ce2c39d4b23fa01b380d98fe2c9abe0
 Messi balón de oro
 nueva frase AM
 Yo solo se que nada se
