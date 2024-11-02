@@ -1,5 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+Merezco un descanso
+Ya no mires atrás, ya no vas por ese camino. -Yudith
+Dios no elige a los preparados, prepara los elegidos-estailen
+la primera línea
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Juan Vargas
@@ -42,6 +48,7 @@ Messi balón de oro (diego ruiz)
 =======
 >>>>>>> 1910aae78768775058c5f6ce4668f35584e56dc4
 =======
+>>>>>>> 787fde605f95fceb55306e27578dffdc93a8b52e
 =======
 
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables? DanielOrtiz
@@ -62,6 +69,7 @@ la primera línea
 <<<<<<< HEAD
 
 
+>>>>>>> 52a1dc0199530918daae752ae0ac6a6bc5f7710b
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
 nada hay nada permanente solo el cambio (Wiliam David)
 CR7- Vinicius
