@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 Un programador tuvo un problema, decidió usar Java. Ahora tiene una ProblemFactory Karol Castro
 
 la primera línea
+=======
+<<<<<<< HEAD
+El Rey Leon
+=======
+Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
+la primera línea
+>>>>>>> aa2941dee8a859e0b01fab0f564a5254d15bedad
+>>>>>>> 57ab8733e7e9934c12b0af3909f34cd96a848b30
