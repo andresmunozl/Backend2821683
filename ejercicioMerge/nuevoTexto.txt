@@ -1,10 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 william david perdigon collazos
 =======
 >>>>>>> d96d40d63df1971d4623b91aeb3720439a8c039e
+=======
+
+>>>>>>> 3cba9d1f41f0284987694ddfda2638c81ba8caeb
 Jefferson Andrés Muñoz Luligo
+Yonnier Leon
+prueba para siguiente ejercicio
+Karol Yisela Castro Mambuscay
 Angie Montilla López 
-Diego Alonso Ruiz Anacona
 Alvaro Andres Delgado Oviedo
 Marlon Collazos
 <<<<<<< HEAD
@@ -13,6 +19,7 @@ Jefferson Andrés Muñoz Luligo
 =======
 >>>>>>> d96d40d63df1971d4623b91aeb3720439a8c039e
 JUAN DIEGO VARGAS CAICEDO
+<<<<<<< HEAD
 Yonnier Leon
 <<<<<<< HEAD
 Diego Alonso Ruiz Anacona
@@ -49,3 +56,10 @@ Jhoan Sebastian
 Yudith Catalina Agredo Rialpe
 Jhoan Sebastian 
 >>>>>>> d96d40d63df1971d4623b91aeb3720439a8c039e
+=======
+Diego Alonso Ruiz Anacona
+prueba para siguiente ejercicio
+Daniel Aranda
+Arnulfo Wescol Solis
+
+>>>>>>> 3cba9d1f41f0284987694ddfda2638c81ba8caeb
