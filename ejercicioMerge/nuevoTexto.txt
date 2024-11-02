@@ -6,9 +6,9 @@ Alvaro Andres Delgado Oviedo
 Marlon Collazos
 >>>>>>> 93f07b0e85ca3ca2c50b852be74d4084dbdd8ac3
 Jefferson Andrés Muñoz Luligo
-Daniel Aranda 
 JUAN DIEGO VARGAS CAICEDO
 Yonnier Leon
+<<<<<<< HEAD
 Diego Alonso Ruiz Anacona
 Jefferson Andrés Muñoz Luligo
 prueba para siguiente ejercicio
@@ -29,6 +29,8 @@ Marlon Collazos
 >>>>>>> e7b4c6ab2204defb8dc7c55d731f0bc57c427361
 =======
 >>>>>>> 69b0eb9060340ed1c28a4589109022271485d18d
+=======
+>>>>>>> c35466d3f9b6b7c4e9a73a9a06158340f4bb1add
 Daniel Aranda
 Arnulfo Wescol Solis
 >>>>>>> 93f07b0e85ca3ca2c50b852be74d4084dbdd8ac3
