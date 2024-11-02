@@ -1,22 +1,25 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Juan Vargas
 Ya no mires atrás, ya no vas por  ese camino. - Yudith
 la primera línea
 =======
+=======
+Ya no mires atrás, ya no vas por ese camino. -Yudith
+Dios no elige a los preparados, prepara los elegidos-estailen
+la primera línea
+>>>>>>> 96bc01d64e7ddfacb0ebde8f61494b6194690dda
+>>>>>>> c9d0d8032fd713b3e74cdaa73d53bd9b2e5125a6
 Sí los zombies se deshacen con el paso del tiempo ¿zombiodegradables?
-
-<<<<<<< HEAD
 nada hay nada permanente solo el cmabio
 >>>>>>> c1124af7dbdceb889c341415d508a66e45dc8baf
 CR7- Vinicius
-=======
 CR7- Vinicius , Yamil se los pasio en el casa blanca
->>>>>>> ad7a60b29ce2c39d4b23fa01b380d98fe2c9abe0
 Messi balón de oro
 nueva frase AM
 Yo solo se que nada se
 "Nunca dejes para mañana lo que puedas hacer pasado mañana." - Angie
->>>>>>> a75579668d693c7c33ca54b63aeefd348fffefb1
 El Rey Leon
 Sil a vida fuera estable todo el tiempo, yo no bebería, ni malgastaría la plata. - Andres Muñoz
 la primera línea
+
